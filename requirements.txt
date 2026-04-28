@@ -1,0 +1,11 @@
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+requests
+ipykernel
+notebook
+pyarrow
+db-dtypes
+google-cloud-bigquery
